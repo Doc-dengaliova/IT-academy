@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'icomoon';
-  src:  
-    url('https://github.com/Doc-dengaliova/IT-academy/raw/main/icomoon.ttf') format('truetype'),
+  src:  url('https://github.com/Doc-dengaliova/IT-academy/raw/main/icomoon.ttf') format('embedded-opentype'),
+/*     url('https://github.com/Doc-dengaliova/IT-academy/raw/main/icomoon.ttf') format('truetype'), */
     url('https://github.com/Doc-dengaliova/IT-academy/raw/main/icomoon.woff') format('woff');
   font-weight: normal;
   font-style: normal;
